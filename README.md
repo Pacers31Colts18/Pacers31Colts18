@@ -2,14 +2,7 @@
 
 I'm a Sr. Endpoint Engineer focusing on Microsoft technologies. Looking to drive modern solutions forward using modern technologies.
 
-
-<details>
-<summary>
-  More stuff about me
-</summary>
-
 ## Quick overview
-
 
 #### GitHub stats 
 <a href="https://github.com/pacers31colts18/github-readme-stats">
@@ -63,5 +56,3 @@ I'm a Sr. Endpoint Engineer focusing on modern endpoint technologies. My main fo
 ## What I'm currently learning 📚
 
 - AZ-104
-
-</details>
