@@ -7,10 +7,6 @@ I'm a Sr. Endpoint Engineer focusing on Microsoft technologies. Looking to drive
 #### GitHub stats 
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pacers31colts18)](https://github.com/pacers31colts18/github-readme-stats)
-<a href="https://github.com/pacers31colts18/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=pacers31colts18&show_icons=true&line_height=27&include_all_commits=true" alt="My github stats" />
-</a>  
-
 
 ### What I do
 
