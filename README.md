@@ -4,7 +4,9 @@ I'm a Sr. Endpoint Engineer focusing on Microsoft technologies. Looking to drive
 
 ## Quick overview
 
-#### GitHub stats 
+#### GitHub stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pacers31colts18&show_icons=true&theme=radical)
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pacers31colts18)](https://github.com/pacers31colts18/github-readme-stats)
 
